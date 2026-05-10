@@ -200,3 +200,5 @@ phpinfo();
 - Copy your public IP address and paste it in any browser then you will see the PHP info page just as seen in the image below:
 
 ![alt text](<IMAGE/step 5 image 2.png>)
+
+![alt text](<IMAGE/step 5 image 2.png>)
